@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Failure: [PASSED]: simulation finished.
+Time: 1060 ns  Iteration: 0  Process: /FSM_tb/line__44  File: C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed/trabajo_sed.srcs/sim_1/new/FSM_tb.vhd
+$finish called at time : 1060 ns : File "C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed/trabajo_sed.srcs/sim_1/new/FSM_tb.vhd" Line 85
