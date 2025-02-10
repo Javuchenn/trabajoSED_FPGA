@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Failure: [PASSED]: simulation finished.
+Time: 1300 ns  Iteration: 0  Process: /timer_tb/line__47  File: C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed/trabajo_sed.srcs/sim_1/new/timer_tb.vhd
+$finish called at time : 1300 ns : File "C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed/trabajo_sed.srcs/sim_1/new/timer_tb.vhd" Line 67
