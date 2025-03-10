@@ -1,0 +1,33 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Wed Feb 26 21:32:54 2025
+# Process ID: 15880
+# Current directory: C:/Users/Usuario/Desktop/trabajoSED_FPGA-FSM-decoder-contador-timer
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5252 C:\Users\Usuario\Desktop\trabajoSED_FPGA-FSM-decoder-contador-timer\trabajo_sed.xpr
+# Log file: C:/Users/Usuario/Desktop/trabajoSED_FPGA-FSM-decoder-contador-timer/vivado.log
+# Journal file: C:/Users/Usuario/Desktop/trabajoSED_FPGA-FSM-decoder-contador-timer\vivado.jou
+# Running On        :DESKTOP-MGB7NKD
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :19045
+# Processor Detail  :Intel(R) Core(TM) i5-4300U CPU @ 1.90GHz
+# CPU Frequency     :2494 MHz
+# CPU Physical cores:2
+# CPU Logical cores :4
+# Host memory       :8490 MB
+# Swap memory       :7239 MB
+# Total Virtual     :15730 MB
+# Available Virtual :3184 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Usuario/Desktop/trabajoSED_FPGA-FSM-decoder-contador-timer/trabajo_sed.xpr
+update_compile_order -fileset sources_1
+close [ open C:/Users/Usuario/Desktop/trabajoSED_FPGA-FSM-decoder-contador-timer/trabajo_sed.srcs/sources_1/new/EDGEDTCTR.vhd w ]
+add_files C:/Users/Usuario/Desktop/trabajoSED_FPGA-FSM-decoder-contador-timer/trabajo_sed.srcs/sources_1/new/EDGEDTCTR.vhd
+update_compile_order -fileset sources_1
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+close [ open C:/Users/Usuario/Desktop/trabajoSED_FPGA-FSM-decoder-contador-timer/trabajo_sed.srcs/sim_1/new/EDGEDTCTR_TB.vhd w ]
+add_files -fileset sim_1 C:/Users/Usuario/Desktop/trabajoSED_FPGA-FSM-decoder-contador-timer/trabajo_sed.srcs/sim_1/new/EDGEDTCTR_TB.vhd
+update_compile_order -fileset sim_1
