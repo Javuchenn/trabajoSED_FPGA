@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu Mar 20 18:34:04 2025
+# Process ID: 15872
+# Current directory: C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.runs/synth_1
+# Command line: vivado.exe -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file: C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.runs/synth_1/top.vds
+# Journal file: C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.runs/synth_1\vivado.jou
+# Running On        :DESKTOP-QANP9RO
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :19045
+# Processor Detail  :AMD A9-9425 RADEON R5, 5 COMPUTE CORES 2C+3G   
+# CPU Frequency     :3094 MHz
+# CPU Physical cores:2
+# CPU Logical cores :2
+# Host memory       :8017 MB
+# Swap memory       :3023 MB
+# Total Virtual     :11040 MB
+# Available Virtual :2958 MB
+#-----------------------------------------------------------
+source top.tcl -notrace
