@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Failure: [PASSED]: simulation finished.
+Time: 1500 ns  Iteration: 0  Process: /decoder_tb/stimulus_process  File: C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sim_1/new/decoder_tb.vhd
+$finish called at time : 1500 ns : File "C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sim_1/new/decoder_tb.vhd" Line 86
