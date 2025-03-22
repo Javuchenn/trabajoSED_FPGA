@@ -1,0 +1,84 @@
+srcscan starts
+=============== Using vdb files for VHDL std libs ===========
+INFO: VHDL library search path for library "std" is now "C:/Xilinx/Vivado/2024.1/data/precomp_hsv/vhdl/std" (VHDL-1505)
+INFO: VHDL library search path for library "synopsys" is now "C:/Xilinx/Vivado/2024.1/data/precomp_hsv/vhdl/synopsys" (VHDL-1505)
+INFO: VHDL library search path for library "ieee" is now "C:/Xilinx/Vivado/2024.1/data/precomp_hsv/vhdl/ieee" (VHDL-1505)
+INFO: VHDL library search path for library "unimacro" is now "C:/Xilinx/Vivado/2024.1/data/precomp_hsv/vhdl/unimacro" (VHDL-1505)
+INFO: VHDL library search path for library "unisim" is now "C:/Xilinx/Vivado/2024.1/data/precomp_hsv/vhdl/unisim" (VHDL-1505)
+INFO: VHDL library search path for library "vl" is now "C:/Xilinx/Vivado/2024.1/data/precomp_hsv/vhdl/vl" (VHDL-1505)
+INFO: VHDL library search path for library "xpm" is now "C:/Xilinx/Vivado/2024.1/data/precomp_hsv/vhdl/xpm" (VHDL-1505)
+-- Analyzing VHDL file "C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sources_1/new/FSM.vhd" into library xil_defaultlib (VHDL-9003)
+INFO: analyzing entity 'FSM' (VHDL-1012)
+INFO: analyzing architecture 'behavioral' of entity 'fsm' (VHDL-9006)
+-- Analyzing VHDL file "C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sim_1/new/FSM_tb.vhd" into library xil_defaultlib (VHDL-9003)
+INFO: analyzing entity 'FSM_tb' (VHDL-1012)
+INFO: analyzing architecture 'testbench' of entity 'fsm_tb' (VHDL-9006)
+-- Analyzing VHDL file "C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sources_1/new/contador.vhd" into library xil_defaultlib (VHDL-9003)
+INFO: analyzing entity 'contador' (VHDL-1012)
+INFO: analyzing architecture 'behavioral' of entity 'contador' (VHDL-9006)
+-- Analyzing VHDL file "C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sim_1/new/contador_tb.vhd" into library xil_defaultlib (VHDL-9003)
+INFO: analyzing entity 'contador_tb' (VHDL-1012)
+INFO: analyzing architecture 'testbench' of entity 'contador_tb' (VHDL-9006)
+-- Analyzing VHDL file "C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sources_1/new/decoder.vhd" into library xil_defaultlib (VHDL-9003)
+INFO: analyzing entity 'decoder' (VHDL-1012)
+INFO: analyzing architecture 'Behavioral' of entity 'decoder' (VHDL-9006)
+-- Analyzing VHDL file "C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sim_1/new/decoder_tb.vhd" into library xil_defaultlib (VHDL-9003)
+INFO: analyzing entity 'decoder_tb' (VHDL-1012)
+INFO: analyzing architecture 'Behavioral' of entity 'decoder_tb' (VHDL-9006)
+-- Analyzing VHDL file "C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sources_1/new/edgedtctr.vhd" into library xil_defaultlib (VHDL-9003)
+INFO: analyzing entity 'edgedtctr' (VHDL-1012)
+INFO: analyzing architecture 'behavioral' of entity 'edgedtctr' (VHDL-9006)
+-- Analyzing VHDL file "C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sim_1/new/edgedtctr_tb.vhd" into library xil_defaultlib (VHDL-9003)
+INFO: analyzing entity 'edgedtctr_tb' (VHDL-1012)
+INFO: analyzing architecture 'tb' of entity 'edgedtctr_tb' (VHDL-9006)
+-- Analyzing VHDL file "C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sources_1/new/synchrnzr.vhd" into library xil_defaultlib (VHDL-9003)
+INFO: analyzing entity 'synchrnzr' (VHDL-1012)
+INFO: analyzing architecture 'behavioral' of entity 'synchrnzr' (VHDL-9006)
+-- Analyzing VHDL file "C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sim_1/new/synchrnzr_tb.vhd" into library xil_defaultlib (VHDL-9003)
+INFO: analyzing entity 'synchrnzr_tb' (VHDL-1012)
+INFO: analyzing architecture 'TB' of entity 'synchrnzr_tb' (VHDL-9006)
+-- Analyzing VHDL file "C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sources_1/new/timer.vhd" into library xil_defaultlib (VHDL-9003)
+INFO: analyzing entity 'timer' (VHDL-1012)
+INFO: analyzing architecture 'Behavioral' of entity 'timer' (VHDL-9006)
+-- Analyzing VHDL file "C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sim_1/new/timer_tb.vhd" into library xil_defaultlib (VHDL-9003)
+INFO: analyzing entity 'timer_tb' (VHDL-1012)
+INFO: analyzing architecture 'Behavioral' of entity 'timer_tb' (VHDL-9006)
+-- Analyzing VHDL file "C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sources_1/new/top.vhd" into library xil_defaultlib (VHDL-9003)
+INFO: analyzing entity 'top' (VHDL-1012)
+INFO: analyzing architecture 'behavioral' of entity 'top' (VHDL-9006)
+-- Analyzing VHDL file "C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sim_1/new/top_tb.vhd" into library xil_defaultlib (VHDL-9003)
+INFO: analyzing entity 'top_tb' (VHDL-1012)
+INFO: analyzing architecture 'tb' of entity 'top_tb' (VHDL-9006)
+Listing tops:
+VHDLTop: library:xil_defaultlib entity:fsm_tb arch:
+VHDLTop: library:xil_defaultlib entity:fsm_tb arch:
+VHDLTop: library:xil_defaultlib entity:contador_tb arch:
+VHDLTop: library:xil_defaultlib entity:contador_tb arch:
+VHDLTop: library:xil_defaultlib entity:decoder_tb arch:
+VHDLTop: library:xil_defaultlib entity:decoder_tb arch:
+VHDLTop: library:xil_defaultlib entity:edgedtctr_tb arch:
+VHDLTop: library:xil_defaultlib entity:edgedtctr_tb arch:
+VHDLTop: library:xil_defaultlib entity:synchrnzr_tb arch:
+VHDLTop: library:xil_defaultlib entity:synchrnzr_tb arch:
+VHDLTop: library:xil_defaultlib entity:timer_tb arch:
+VHDLTop: library:xil_defaultlib entity:timer_tb arch:
+VHDLTop: library:xil_defaultlib entity:top_tb arch:
+VHDLTop: library:xil_defaultlib entity:top_tb arch:
+END of tops
+C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sim_1/new/FSM_tb.vhd(8): INFO: processing 'FSM_tb_default(testbench)' (VHDL-1067)
+C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sources_1/new/FSM.vhd(5): INFO: processing 'FSM_default(behavioral)' (VHDL-1067)
+C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sim_1/new/contador_tb.vhd(6): INFO: processing 'contador_tb_default(testbench)' (VHDL-1067)
+C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sources_1/new/contador.vhd(4): INFO: processing 'contador_default(behavioral)' (VHDL-1067)
+C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sim_1/new/decoder_tb.vhd(10): INFO: processing 'decoder_tb_default(Behavioral)' (VHDL-1067)
+C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sources_1/new/decoder.vhd(9): INFO: processing 'decoder_default(Behavioral)' (VHDL-1067)
+C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sim_1/new/edgedtctr_tb.vhd(4): INFO: processing 'edgedtctr_tb_default(tb)' (VHDL-1067)
+C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sources_1/new/edgedtctr.vhd(5): INFO: processing 'edgedtctr_default(behavioral)' (VHDL-1067)
+C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sim_1/new/synchrnzr_tb.vhd(6): INFO: processing 'synchrnzr_tb_default(TB)' (VHDL-1067)
+C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sources_1/new/synchrnzr.vhd(4): INFO: processing 'synchrnzr_default(behavioral)' (VHDL-1067)
+C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sim_1/new/timer_tb.vhd(7): INFO: processing 'timer_tb_default(Behavioral)' (VHDL-1067)
+C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sources_1/new/timer.vhd(9): INFO: processing 'timer_default(Behavioral)' (VHDL-1067)
+C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sim_1/new/top_tb.vhd(16): INFO: processing 'top_tb_default(tb)' (VHDL-1067)
+C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sources_1/new/top.vhd(5): INFO: processing 'top_default(behavioral)' (VHDL-1067)
+C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sources_1/new/top.vhd(156): ERROR: expression has 4 elements; expected 8 (VHDL-1077)
+C:/Users/Usuario/Desktop/TRABAJO SED/trabajo_sed_debug/trabajo_sed.srcs/sources_1/new/top.vhd(156): ERROR: expression has 4 elements; expected 8 (VHDL-1077)
+srcscan exits with return value 0
